@@ -4,7 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-sickmazin-181717?style=for-the-badge&logo=github)](https://github.com/sickmazin) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia_Corigliano-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mattia-corigliano-3421a426a)  
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/sick_mazin.svg?style=social&label=Follow%20%40sick_mazin)](https://twitter.com/sick_mazin)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/sick_mazin.svg?style=social&label=Follow%40%40sick_mazin)](https://twitter.com/sick_mazin)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattiaa.corigliano/)  
 
 ---
