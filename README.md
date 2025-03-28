@@ -2,8 +2,8 @@
 ### **Full-Stack Developer & Data Enthusiast | Front-End Dev per Unical Reparto Corse**  
 👨‍💻 Ingegnere Informatico | 📚 Studente Magistrale in AI & Machine Learning | 📊 Appassionato di dati | 🏎️ Formula 1 | ⚽ Calcio | ♟️ Scacchi | 🎮 Giochi | 🍕 Cibo | 💡 Sempre curioso  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia_Corigliano-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mattia-corigliano-3421a426a)  [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sick_mazin)
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattiaa.corigliano/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia%20Corigliano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-corigliano-3421a426a)
+[![Mattia Corigliano](https://img.shields.io/badge/Mattia%20Corigliano-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sick_mazin) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattiaa.corigliano/)  
 
 ---
 
@@ -37,14 +37,8 @@ _Dashboard per l'analisi e il ranking delle recensioni di hotel basata su AI._
 ---
 
 ## **📊 Statistiche GitHub**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sickmazin&layout=compact&theme=tokyonight)](https://github.com/sickmazin)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sickmazin&layout=compact&theme=tokyonight)](https://github.com/sickmazin)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sickmazin&show_icons=true&theme=tokyonight)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sickmazin&show_icons=true&theme=tokyonight)  
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 ---  
 
 ## **📫 Contattami**  
