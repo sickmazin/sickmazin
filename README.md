@@ -2,31 +2,18 @@
 ### **Full-Stack Developer & Data Enthusiast | Front-End Dev per Unical Reparto Corse**  
 👨‍💻 Ingegnere Informatico | 📚 Studente Magistrale in AI & Machine Learning | 📊 Appassionato di dati | 🏎️ Formula 1 | ⚽ Calcio | ♟️ Scacchi | 🎮 Giochi | 🍕 Cibo | 💡 Sempre curioso  
 
-[![GitHub](https://img.shields.io/badge/GitHub-sickmazin-181717?style=for-the-badge&logo=github)](https://github.com/sickmazin) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia_Corigliano-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mattia-corigliano-3421a426a)  
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/sick_mazin.svg?style=social&label=Follow%40%40sick_mazin)](https://twitter.com/sick_mazin)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattiaa.corigliano/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia_Corigliano-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mattia-corigliano-3421a426a)  [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sick_mazin)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattiaa.corigliano/)  
 
 ---
 
 ## **🚀 Tech Stack**  
 
 ### **🖥️ Frontend**  
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react) 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### **🛠 Backend & Data**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)  
 
 ## Databases
 
@@ -36,9 +23,7 @@
 ![SqlLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### **🛠 Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ---  
 
 ## **🔥 Progetti in Evidenza**  
