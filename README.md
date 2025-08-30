@@ -34,7 +34,7 @@ _Un gioco di scacchi innovativo con feature avanzate per giocare con gli amici._
 📊 **[BigData HotelReview Analysis](https://github.com/sickmazin/BigData_HotelReview_Analysis)**  
 _Dashboard per l'analisi e il ranking delle recensioni di hotel basata su AI._  
 
-🧠**[AI Quest Master](https://github.com/sickmazin/AI-Project-Quest-Master)**
+🧠 **[AI Quest Master](https://github.com/sickmazin/AI-Project-Quest-Master)**
 _Un sistema basato su agenti AI per la creazione di esperienze narrative interattive_
 ---
 
