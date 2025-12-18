@@ -1,5 +1,5 @@
 # 👋 Ciao, sono Mattia Corigliano!  
-### **Full-Stack Developer & Data Enthusiast | Front-End Dev per Unical Reparto Corse**  
+### **Full-Stack Developer & Data Enthusiast | Software Dev for Unical Reparto Corse**  
 👨‍💻 Ingegnere Informatico | 📚 Studente Magistrale in AI & Machine Learning | 📊 Appassionato di dati | 🏎️ Formula 1 | ⚽ Calcio | ♟️ Scacchi | 🎮 Giochi | 🍕 Cibo | 💡 Sempre curioso  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia%20Corigliano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-corigliano-3421a426a)
