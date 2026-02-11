@@ -32,7 +32,7 @@
 _Un sistema basato su agenti AI per la creazione di esperienze narrative interattive._  
 
 🐍 [Cable Detection & Segmentation](https://github.com/sickmazin/Cable-Detection-by-computer-vision)  
-_Framework di Computer Vision basato su **Custom SOLOv2** e **ConvNeXt** per la segmentazione di istanze filiformi e l'estrazione di parametri geometrici ($\rho, \theta$)._
+_Framework di Computer Vision basato su **Custom SOLOv2** e **ConvNeXt** per la segmentazione di istanze filiformi e l'estrazione di parametri geometrici (ρ, θ)._
 
 📉 [VaR Estimation with TempVAE](https://github.com/sickmazin/VaR-Estimation-with-TempVAE)   
 _Analisi di serie storiche finanziarie multivariate tramite **Temporal Variational Autoencoder** per l'inferenza di processi stocastici latenti e la stima del Value at Risk (VaR)._
