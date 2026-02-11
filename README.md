@@ -41,8 +41,8 @@ _Un sistema basato su agenti AI per la creazione di esperienze narrative interat
 ---
 
 ## **📊 Statistiche GitHub**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sickmazin&layout=compact&theme=tokyonight)](https://github.com/sickmazin)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sickmazin&show_icons=true&theme=tokyonight)  
-
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sickmazin&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=sickmazin&layout=compact&theme=tokyonight)
 ---  
 
 ## **📫 Contattami**  
