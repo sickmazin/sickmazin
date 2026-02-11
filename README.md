@@ -28,15 +28,20 @@
 
 ## **🔥 Progetti in Evidenza**  
 
+🧠 **[AI Quest Master](https://github.com/sickmazin/AI-Project-Quest-Master)**  
+_Un sistema basato su agenti AI per la creazione di esperienze narrative interattive._  
+
+🐍 [Cable Detection & Segmentation](https://github.com/sickmazin/Cable-Detection-by-computer-vision)
+_Framework di Computer Vision basato su **Custom SOLOv2** e **ConvNeXt** per la segmentazione di istanze filiformi e l'estrazione di parametri geometrici ($\rho, \theta$)._
+
+📉 [VaR Estimation with TempVAE](https://github.com/sickmazin/VaR-Estimation-with-TempVAE)
+_Analisi di serie storiche finanziarie multivariate tramite **Temporal Variational Autoencoder** per l'inferenza di processi stocastici latenti e la stima del Value at Risk (VaR)._
+
 🚀 **[Breaking-Chess](https://github.com/sickmazin/Breaking-Chess)**  
 _Un gioco di scacchi innovativo con feature avanzate per giocare con gli amici._  
 
 📊 **[BigData HotelReview Analysis](https://github.com/sickmazin/BigData_HotelReview_Analysis)**  
 _Dashboard per l'analisi e il ranking delle recensioni di hotel basata su AI._  
-
-🧠 **[AI Quest Master](https://github.com/sickmazin/AI-Project-Quest-Master)**  
-_Un sistema basato su agenti AI per la creazione di esperienze narrative interattive._  
-
 
 ---
 
